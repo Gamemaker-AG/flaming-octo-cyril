@@ -30,3 +30,6 @@ lib/
 *.exe
 *.out
 *.app
+
+# C::B
+*.cbp
