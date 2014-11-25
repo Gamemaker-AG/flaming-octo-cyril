@@ -33,3 +33,4 @@ lib/
 
 # C::B
 *.cbp
+*.depend
