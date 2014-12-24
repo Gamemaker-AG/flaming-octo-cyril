@@ -1,4 +1,5 @@
-#version 330
+#version 300 es
+precision medump flaot;
 in vec2 coord;
 in vec3 position;
 

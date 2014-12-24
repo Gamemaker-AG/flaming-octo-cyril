@@ -13,7 +13,7 @@ int main(){
     //initialize window and GLEW
     sf::ContextSettings contextSettings;
     contextSettings.majorVersion = 3;
-    contextSettings.minorVersion = 3;
+    contextSettings.minorVersion = 0;
     sf::Window window(sf::VideoMode(800,600,32), "TEST!", sf::Style::Default, contextSettings);
     glewInit();
 
